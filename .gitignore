@@ -197,4 +197,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< Updated upstream
 # End of https://www.toptal.com/developers/gitignore/api/node,vue,visualstudiocode,windows
+=======
+# End of https://www.toptal.com/developers/gitignore/api/node,vue,visualstudiocode,windows
+>>>>>>> Stashed changes
